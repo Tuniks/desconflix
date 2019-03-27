@@ -1,0 +1,11 @@
+    UI
+recomendação inicial
+carrossel/grid
+pop up page, video - descrição - recomendação
+iconezinho do titulo
+categorias (adicionados recentemente, em alta, series, watchlist?)
+
+
+    Funcionalidades
+admin page - adicionar cards
+bd em json

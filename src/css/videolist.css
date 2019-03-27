@@ -1,0 +1,26 @@
+.carousel-control-next {
+    filter: invert(100%);
+    margin-right: -10rem;
+}
+
+.carousel-control-prev{
+    filter: invert(100%);
+    margin-left: -10rem;
+}
+
+.carousel-indicators{
+    filter: invert(100%);
+    margin-bottom: -35px;
+}
+.carddeck{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.carousel{
+    padding-bottom: 5rem;
+}
+
+.card{
+    height: 25rem;
+}

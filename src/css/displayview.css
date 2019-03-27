@@ -1,0 +1,10 @@
+.displayview {
+    width: 100%;
+    height: 720px;
+    background-color: #00E88F;
+}
+
+.displayvideo {
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
