@@ -4,6 +4,7 @@ import Card from 'react-bootstrap/Card'
 import CardDeck from 'react-bootstrap/CardDeck'
 import Carousel from 'react-bootstrap/Carousel'
 import './css/videolist.css'
+import myData from './mockdb.json'
 
 class VideoCard extends  React.Component{
     render() {
@@ -12,7 +13,6 @@ class VideoCard extends  React.Component{
                 <Card.Img variant="top" src={require('./img/kanye.png')} />
                 <Card.Body>
                     <Card.Title> {this.props.title} </Card.Title>
-                    <Card.Text> lorem ipsum </Card.Text>
                 </Card.Body>
             </Card>
         )
@@ -23,6 +23,9 @@ class VideoCardDeck extends React.Component{
     render() {
         return (
             <CardDeck className={'carddeck'}>
+                {
+                    console.log(myData.items[2].snippet.title)
+                }
                 <VideoCard title={'A'}/>
                 <VideoCard title={'B'}/>
                 <VideoCard title={'C'}/>
@@ -35,7 +38,7 @@ class VideoCardDeck extends React.Component{
 class VideoCarousel extends React.Component{
     render(){
         return(
-            <Carousel>
+            <Carousel interval={null}>
                 <Carousel.Item>
                     <VideoCardDeck/>
                 </Carousel.Item>
