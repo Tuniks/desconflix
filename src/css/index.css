@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Aprova";
-    src: url("css/font/Aprova-Regular.otf");
+    src: url("font/Aprova-Regular.otf");
 }
 @font-face {
     font-family: "Aprova";
-    src: url("css/font/Aprova-Bold.otf");
+    src: url("font/Aprova-Bold.otf");
     font-weight: bold;
 }
 

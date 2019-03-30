@@ -1,0 +1,14 @@
+.gridview {
+    padding: 5rem;
+    padding-top: 7rem;
+}
+
+.gridrow {
+    padding-left: -5rem;
+    padding-right: -10rem;
+    padding-bottom: 2rem;
+}
+
+/*.gridcontainer {*/
+    /*padding: -15rem;*/
+/*}*/

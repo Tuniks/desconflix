@@ -1,16 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Form from 'react-bootstrap/Form'
+import FormControl from 'react-bootstrap/FormControl'
+import Button from 'react-bootstrap/Button'
 
 import VideoList from './videolist.js';
-import './index.css';
+import Gridview from './gridview.js'
+
+import './css/index.css';
 import './css/navbar.css';
 import './css/displayview.css';
 import './css/listview.css';
-import './css/displayvideo.css'
+import './css/displayvideo.css';
+import './css/videocard.css'
 
 class Navbar extends React.Component{
     constructor(props){
         super(props)
+
+        this.handleClick = this.handleClick.bind(this);
     }
 
     handleClick(toggle){
@@ -24,6 +32,10 @@ class Navbar extends React.Component{
                     <li><a href="#" onClick={() => this.handleClick(true)}>dFlix</a></li>
                     <li><a href="#" onClick={() => this.handleClick(false)}>Em Alta</a></li>
                     <li><a href="#" onClick={() => this.handleClick(false)}>Adicionados Recentemente</a></li>
+                    {/*<li><Form inline>*/}
+                        {/*<FormControl type="text" placeholder="Search" className="mr-sm-2" />*/}
+                        {/*<Button variant="outline-success">Search</Button>*/}
+                    {/*</Form></li>*/}
                     <li><a>Log In</a></li>
                 </ul>
             </nav>
@@ -37,7 +49,7 @@ class MainView extends React.Component{
             <div className={'mainview'}>
                 <div className={'displayview'}>
                     <div className={'displayvideo'}>
-                        <iframe width="960" height="540" src="https://www.youtube.com/embed/6CHs4x2uqcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="960" height="540" src="https://www.youtube.com/embed/6CHs4x2uqcQ" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                     </div>
                 </div>
                 <div className={'listview'}>
@@ -68,7 +80,7 @@ class Page extends  React.Component {
             <Navbar fun={this.handleNavbarClick}/>
 
             {
-                this.state.toggleDisplayVideo ? <MainView /> : <div> dfsd  </div>
+                this.state.toggleDisplayVideo ? <MainView /> : <Gridview/>
             }
             </div>
         );
