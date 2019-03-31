@@ -1,0 +1,38 @@
+{
+  "playlists":[
+    {
+      "title":"Em Alta",
+      "items":[
+        {"id":"hAVivDuMRKU"},
+        {"id":"yb9FZUcNu9s"},
+        {"id":"hQqMVL6Lrzk"},
+        {"id":"l5gKi5CGIMM"},
+        {"id":"ZPZ2aWFnljI"},
+        {"id":"uKmbwBqxY48"},
+        {"id":"a_h63AAM6hc"},
+        {"id":"WcX0pBTGxHc"},
+        {"id":"9cSNcriRw9s"},
+        {"id":"uEuHdFKPusk"},
+        {"id":"C4dcX2CTHlQ"},
+        {"id":"1jdhfo8XOkE"},
+        {"id":"sVPOFJCHPzs"}
+      ]
+    },
+    {
+      "title":"Adicionados Recentemente",
+      "items":[
+        {"id":"8BVBztnlvTg"},
+        {"id":"uEuHdFKPusk"},
+        {"id":"1jdhfo8XOkE"},
+        {"id":"l5gKi5CGIMM"},
+        {"id":"hQqMVL6Lrzk"},
+        {"id":"0AngMnt3o6w"},
+        {"id":"ZPZ2aWFnljI"},
+        {"id":"qKBWrdblZtQ"},
+        {"id":"x-usO8AM2e0"},
+        {"id":"S18i5uA19j0"},
+        {"id":"nfIqIXZPL1Y"}
+      ]
+    }
+  ]
+}

@@ -1,7 +1,56 @@
-{"items":[
-  {"snippet": {"title": "kanye", "thumbnails":{"medium" : { "url" : "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"}}}},
-
-  {"snippet": {"title": "key", "thumbnails":{"medium" : { "url" : "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"}}}},
-
-  {"snippet": {"title": "peele", "thumbnails":{"medium" : { "url" : "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"}}}}
-]}
+{
+  "data": {
+    "playlist": [
+      {
+        "id": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7"
+      },
+      {
+        "id": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt"
+      },
+      {
+        "id": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7"
+      },
+      {
+        "id": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x"
+      },
+      {
+        "id": "PLgIWHtlPYF830BgG33zXDuZJM_qQnlfze"
+      },
+      {
+        "id": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_"
+      }
+    ],
+    "items": [
+      {
+        "snippet": {
+          "title": "kanye",
+          "thumbnails": {
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"
+            }
+          }
+        }
+      },
+      {
+        "snippet": {
+          "title": "key",
+          "thumbnails": {
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"
+            }
+          }
+        }
+      },
+      {
+        "snippet": {
+          "title": "peele",
+          "thumbnails": {
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

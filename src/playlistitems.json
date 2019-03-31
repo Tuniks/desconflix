@@ -1,0 +1,2360 @@
+{
+  "playlistdata":[
+    {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CAgLANm1I_FmZ1-cCc22_6C6cjY\"",
+      "pageInfo": {
+        "totalResults": 9,
+        "resultsPerPage": 50
+      },
+      "items": [
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gidxzK2u8BLQgfxMGD7WlVsPMoE\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy41MzJCQjBCNDIyRkJDN0VD",
+          "snippet": {
+            "publishedAt": "2014-10-03T23:14:03.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Descomplica Na Estrada - Mata Atlântica | Descomplica",
+            "description": "Olá, aluno!\nEssa aula faz parte do Projeto Especial: \"Descomplica Na Estrada\". No primeiro vídeo do projeto Na Estrada - Mata Atlântica, Oda, Mauricio e Pellizzari discorrem sobre a importância do bioma para o Brasil, bem como sobre a urgência de sua conservação. Para ver o próximo vídeo do módulo, vá em http://bit.ly/13panBn. Estude para o Enem com a gente :D\n\n\n-----\n00:00 Descomplica. Biologia. Prof. Rubens Oda. Na Estrada - Mata Atlântica. Mata Atlântica: Por que preservar. 00:30 Prof Oda apresenta o projeto descomplica na estrada, serão apresentados vários aspectos da mata atlântica como clima, biodiversidade e aspectos históricos. Ambiente, floresta da tijuca. 01:30 A mata atlântica por ser uma floresta tropical pluvial, é considerada um dos ambientes mais biodiversos do planeta. De acordo com a ONU, a mata atlântica e o cerrado são dois dos maiores hotspot do planeta. O hotspot leva em consideração, não somente a biodiversidade, mas também o risco de ameaça em que as espécies se encontram. 02:05 A preservação da mata atlântica é fundamental. 02:15 Katyucha Silva, pesquisadora do PARNA tijuca. O parque nacional da tijuca possui grande importância para a conservação, no parque existem espécies ameaçadas e endêmicas. O parque da tijuca é o menor entre as unidades de conservação e é dividido em quatro setores. 03:02 Maurício Martins, Prof de Geografia, A floresta se localiza dentro do maciço da tijuca, possui altitude moderada, o maciço da tijuca foi formado durante o período cenozóico. A derrubada da floresta acarretará em modificações, irá comprometer não só a biodiversidade, mas o abastecimento de água. 04:36 Renato 00:00 Descomplica. Biologia. Prof. Rubens Oda. Na Estrada - Mata Atlântica. Mata Atlântica: Por que preservar. 00:30, Professor de história. A chegada dos portugueses no século XVI se confunde com a história de desmatamento ao longo do processo.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/hAVivDuMRKU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/hAVivDuMRKU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/hAVivDuMRKU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/hAVivDuMRKU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 0,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "hAVivDuMRKU"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/w06ciS98E9cwZhwSbmdwa0QbmbU\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy4wMTcyMDhGQUE4NTIzM0Y5",
+          "snippet": {
+            "publishedAt": "2014-10-03T23:09:41.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Descomplica Na Estrada - Restinga | Descomplica",
+            "description": "Olá, aluno!\nEssa aula faz parte do módulo \"Na Estrada - Restinga\". A paisagem da restinga e formada por áreas arenosas e planas próximas ao mar, incluindo a praia e cordoes arenosos. Sujeita as degradações da especulação imobiliária, da poluição e do avanço das cidades, a restinga e um bioma costeiro de transição especialmente ameaçado. Para ver o próximo vídeo do módulo, vá em http://bit.ly/1q1S1Nc. Estude para o Enem com a gente :D\n\n------\n00:00 Descomplica. Biologia. Prof. Rubens Oda. Na Estrada – Restinga. Bioma de Transição. 00:02 São José do Imbassaí, município de Maricá, litoral do estado do Rio de janeiro. 01:05 O Bioma restinga é o conjunto de formação vegetais que revestem as areias litorâneas, paisagem formada pelo areal próximo ao mar incluindo a vegetação, que pode ser lenhosa e diversificada relativamente densa na parte plana mais afastada da praia. 01:58 Formação pioneira com influência marinha. Uma planície arenosa costeira de origem marinha incluindo a praia, cordões arenosos, depressões, margens e lagunas, com vegetação adaptada as condições ambientais. 02:15 o cordão arenoso separa  praia e a lagoa, a lagoa por sua vez era parte do oceano, mas durante o período de formação de geleiras, houve a regressão marinha e o nível do mar diminuiu, superfícies antes oceânicas localizadas em mais altitude, vão dar origem a solos que formam o cordão arenoso. 03:11 O contrário de regressão marinha é a transgressão marinha, ambos acontecem em longos períodos de tempo, mas o aumento da temperatura média do planeta possa causar derretimento das geleiras causando uma transgressão do oceano. 04:00 Nos períodos glaciais ocorreu a expansão dos ecossistemas mais áridos, como cerrado, caatinga e a restinga. Nos períodos interglaciais a tendência é a expansão das matas úmidas como a mata atlântica e a floresta amazônica. 04:30 Essas mudanças climáticas tiveram papel na extinção da megafauna, pois em ambientes mais abertos existiam preguiças gigantes, e outros animais muito grandes, mas com a mudança do clima inter-glacial os biomas se tornaram mais úmidos favorecendo o surgimento de florestas, causando a extinção desses grandes animais. 05:07 Prof. Maurício Martins. De acordo com a geografia física do Brasil os domínio morfoclimáticos não compreende o ambiente de restinga, pois este ambiente se enquadra no ambiente de mata atlântica. 05:45 Toda a colonização da restinga é feita a partir das espécies presentes na mata atlântica, o que gera uma pergunta, será que a restinga é um bioma? Será que um dia essa comunidade poderá se desenvolver e atingir o estado de clímax?",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/6di4mJMPaE8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/6di4mJMPaE8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/6di4mJMPaE8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/6di4mJMPaE8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 1,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "6di4mJMPaE8"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aouPz7coHNDdTJQYfrhlGtR4d48\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy4wOTA3OTZBNzVEMTUzOTMy",
+          "snippet": {
+            "publishedAt": "2014-10-03T23:12:31.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Na Estrada - Manguezal | Descomplica",
+            "description": "Olá, aluno!\nEssa aula faz parte do módulo \"Na Estrada - Manguezal\". Neste video, Rubens Oda (biologia) e Mauricio Martins (geografia) levantam as principais questões acerca desse ambiente. Para ver o próximo vídeo do módulo, vá em http://bit.ly/QMt5iv. Estude para o Enem com a gente :D\n\n\n------\n00:00 Descomplica. Biologia. Prof. Rubens Oda. Na Estrada - Manguezal. Que mangue é este?. 00:19 Apresentação do na estrada manguezal na cidade do Rio de Janeiro, lagoa na barra da Tijuca, entrada do canal de Marapendi. 00:46 Prof Maurício Martins. A volta da lagoa é uma paisagem composta não só de elementos da natureza, mas a presença de edifícios que representam a grande quantidade de populações humanas no local. 01:25 Este módulo tem como objetivo mostrar os ecossistemas lacustres e como o homem interfere nesses ecossistemas.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/secnXo5Of-A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/secnXo5Of-A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/secnXo5Of-A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/secnXo5Of-A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 2,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "secnXo5Of-A"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xHCxRKmI76dZuPTc61il09qMOlc\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy4xMkVGQjNCMUM1N0RFNEUx",
+          "snippet": {
+            "publishedAt": "2014-10-03T23:13:03.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Descomplica Na Estrada - Pantanal | Descomplica",
+            "description": "Olá, aluno!\nEssa aula faz parte do módulo \"Pantanal\". Neste vídeo os professores Oda, Mauricio e Renato Pellizzari, fazem uma introdução entre a biologia, a historia e a geografia existentes no Pantanal. Para ver o próximo vídeo do módulo, vá em http://bit.ly/1guZL4S. Estude para o Enem com a gente :D\n\n\n------\n00:00 Descomplica. Biologia. Prof. Rubens Oda. Na Estrada - Pantanal. Pantanal. 00:33 Prof.Rubens Oda. O bioma pantanal e um dos mais biodiversos do mundo, é considerado uma reserva da biosfera pela UNESCO, é patrimônio nacional com mais de 600 espécies de aves, mais espécies de aves que em toda a América do norte. Nos rios são encontradas mais de 200 espécies de peixes, há mais espécies de peixes nos rios do pantanal, que nos rios da Europa. 01:42 Prof. Maurício Martins. A região do pantanal não faz parte de um domínio morfoclimático Brasileiro, mas é uma fase de transição reunindo características dos domínios ao redor. Possui características peculiares quanto ao seu relevo e vegetação e principalmente no complexo hidrográfico, e dentro do pantanal existem o pantanal do barro, o pantanal da areia, ou o verdadeiro pantanal e o alto pantanal, onde não ocorrem inundações e o baixo pantanal onde ocorrem inundações e é considerado o pantanal de fato. 03:32 O verdadeiro pantanal corresponde a uma planície de formação aluvial, quando ocorre o período das cheias o volume dos rios aumenta e cobre grande parte dessas planícies. 04:18 No solo arenoso do verdadeiro pantanal, nasce o capim natural, este capim se desenvolve em solo pobre e conseqüentemente este capim não é bom para fazer a engorda do gado. 04:46 O capim plantado foi introduzido na região para favorecer a atividade de engorda. 05:00 Prof.Rubens Oda. Na planície inundada são encontradas muitas espécies resistentes a inundação, o capará é uma palmeira típica que suporta a inundação, a bocaiúva, algumas espécies são utilizadas para a obtenção de tanino, usado no tratamento do couro. 05:39 No pantanal há vegetação diversa com variação morfoclimática. Nas áreas mais altas há matas fechadas que lembram o cerrado. 05:57 No pantanal a uma grande diversidade de plantas e alta taxa de produtividade e conseqüentemente uma grande biodiversidade animal. 06:10 Prof. Maurício Martins. O pantanal se encontra em uma taxa de transição entre Amazônia, cerrado e mata atlântica, a composição das espécies se dá pelas espécies desses biomas, há pouca ocorrência de espécies endêmicas.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/MJ6mSRqwL1Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/MJ6mSRqwL1Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/MJ6mSRqwL1Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/MJ6mSRqwL1Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 3,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "MJ6mSRqwL1Q"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KwGJOBJ9Vwwlbcfn_1ic5pghWWI\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy41MjE1MkI0OTQ2QzJGNzNG",
+          "snippet": {
+            "publishedAt": "2014-10-03T23:12:07.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Na Estrada - Caatinga | Descomplica",
+            "description": "Olá, aluno!\nEssa aula faz parte do módulo \"Na Estrada - Caatinga\". Nessa viagem pela caatinga, Oda, Pellizzari e Hansen descobrem um Brasil que esta fora do eixo e revisitam marcos da historia brasileira sob outra perspectiva: de dentro. Para ver o próximo vídeo do módulo, vá em http://bit.ly/1i8IYWn. Estude para o Enem com a gente :D\n\n\n------\n00:00 Descomplica. Biologia. Prof. Rubens Oda. Na Estrada – Caatinga. Sete cidades de pedra. 00:10 A caatinga é associada a seca, mas a caatinga possui grande biodiversidade tanto de plantas quanto de animais. 01:50 Prof Pellizzari. Um ótimo exemplo para averiguar a presença de comunidades pré-históricas, são as pinturas rupestres, no local são encontrados dois tipos de pintura, a pintura agreste e a pintura geométrica. 02:55 estima-se que essas pinturas tenham de quatro à dez mil anos.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/7NqG9PrpJx8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/7NqG9PrpJx8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/7NqG9PrpJx8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/7NqG9PrpJx8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 4,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "7NqG9PrpJx8"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/agta5QqEt5QpPWPCCXFNI9N2mHY\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy4yODlGNEE0NkRGMEEzMEQy",
+          "snippet": {
+            "publishedAt": "2014-10-03T23:08:56.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Na Estrada - Cerrado | Descomplica",
+            "description": "Olá, aluno!\nEssa aula faz parte do módulo \"Na estrada - Cerrado\". O professor Oda explica o conceito de ecótono, zona de transicao entre biomas. Para ver o próximo vídeo do módulo, vá em http://bit.ly/PzvcF9. Estude para o Enem com a gente :D\n\n------\n00:00 Descomplica. Biologia. Prof. Rubens Oda. Na Estrada - Cerrado. O cerrado no Brasil. 00:40 O cerrado é importante para o Brasil tanto em termos econômicos, quanto históricos, o vídeo foi feito no parque nacional das sete cidades no Piauí. 01:28 Nesse parque encontramos a caatinga, o cerrado e o ecótono onde há espécies dos dois biomas. 02:13 Prof. Claudio Hansen. O cerrado não é restrito apenas a região Centro-Oeste, o cerrado é o segundo maior bioma brasileiro, partindo do Centro-Oeste, abrange o Mato Grosso, Mato Grosso do Sul, Goiás, sobe até Tocantins na região norte, Amazonas, Rondônia, Maranhão, Pernambuco, Piauí, Bahia, São Paulo, Minas Gerais e até o Paraná. 03:10 É um bioma presente em todas as regiões do Brasil. 03:28 Prof Renato Pellizzari. A colonização Brasileira começa pelo litoral, mas avançou para o interior através de diversos projetos de integração nacional.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/-zwZlxbO7Ag/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/-zwZlxbO7Ag/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/-zwZlxbO7Ag/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/-zwZlxbO7Ag/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 5,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "-zwZlxbO7Ag"
+            }
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SGjqXz5jLlwckaqzvl5QC6ooUaI\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy41NkI0NEY2RDEwNTU3Q0M2",
+          "snippet": {
+            "publishedAt": "2014-10-03T22:45:42.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Descomplica Na Estrada - Amazônia",
+            "description": "Mais um episódio da série Na Estrada - Biomas. Dessa vez, nossos professores foram até a Amazônia para dar aula de Geografia, História e Biologia na maior floresta tropical do planeta.\n\nVocê encontra os episódios do Na Estrada - Biomas no www.descomplica.com.br/projetos-especiais",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8waW_sVqwx8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8waW_sVqwx8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8waW_sVqwx8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/8waW_sVqwx8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 6,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "8waW_sVqwx8"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HJTh5ps529nt0BNHaRDs8S4quyQ\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy5DQUNERDQ2NkIzRUQxNTY1",
+          "snippet": {
+            "publishedAt": "2014-10-03T23:16:47.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Trailer Descomplica Na Estrada",
+            "description": "Nossos professores viajam pelos biomas brasileiros. Confira o primeiro episódio da série aqui: http://bit.ly/15uKeAd :D",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/BoKZkBE669E/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/BoKZkBE669E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/BoKZkBE669E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/BoKZkBE669E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 7,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "BoKZkBE669E"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XFH82pBw9S1ND42CMV1poCyah6U\"",
+          "id": "UExnSVdIdGxQWUY4MnFydF9hZTFBUlQ4d2I2SzBPaXFWXy45NDk1REZENzhEMzU5MDQz",
+          "snippet": {
+            "publishedAt": "2015-01-23T14:55:33.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Descomplica Na Estrada - Pampas",
+            "description": "Mais um episódio da série Na Estrada - Biomas. Dessa vez, nossos professores foram até os Pampas para dar aula de Geografia, História e Biologia..\n\nVocê encontra os episódios do Na Estrada - Biomas no www.descomplica.com.br/projetos-especiais",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/qKBWrdblZtQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/qKBWrdblZtQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/qKBWrdblZtQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/qKBWrdblZtQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+            "position": 8,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "qKBWrdblZtQ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tNVDIKdh5LmLYOif_FTHnGHGatk\"",
+      "pageInfo": {
+        "totalResults": 4,
+        "resultsPerPage": 50
+      },
+      "items": [
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nJgadf9ze7CVT5_On3VLlkM_jv0\"",
+          "id": "UExnSVdIdGxQWUY4MzBCZ0czM3pYRHVaSk1fcVFubGZ6ZS41NkI0NEY2RDEwNTU3Q0M2",
+          "snippet": {
+            "publishedAt": "2018-08-22T16:56:47.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "DEBATE DESCOMPLICA: ARMAMENTO CIVIL! FLÁVIO BOLSONARO E MARCELO FREIXO",
+            "description": "Marcelo Freixo e Flávio Bolsonaro debatem sobre o armamento civil no Brasil com mediação de Eduardo Valladares!\n\nQuer saber como o tema pode cair no Enem e ter duas redações nota 1000 sobre o assunto? Entra aqui: http://bit.ly/2N6tv0B\n\n#DescomplicaDebate #Debate #DebateRedação #RedaçãoEnem #DebateEnem #Descomplica",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8M549Z8o4hE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8M549Z8o4hE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8M549Z8o4hE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/8M549Z8o4hE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/8M549Z8o4hE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF830BgG33zXDuZJM_qQnlfze",
+            "position": 0,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "8M549Z8o4hE"
+            }
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3Qc6s3bZM06lbpZlGh6McXcYwS0\"",
+          "id": "UExnSVdIdGxQWUY4MzBCZ0czM3pYRHVaSk1fcVFubGZ6ZS4yODlGNEE0NkRGMEEzMEQy",
+          "snippet": {
+            "publishedAt": "2018-08-26T21:16:04.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "DEBATE | MARCELO ADNET X CRISS PAIVA | LIMITES DO HUMOR | REDAÇÃO NOTA 1000",
+            "description": "BAIXE AS REDAÇÕES MODELO SOBRE O TEMA DO DEBATE: http://bit.ly/2MjCtvb\n\nJá pensou se o tema da redação do Enem fosse os Limites do humor no mundo contemporâneo? 🤔\n\nO Descomplica tá queimando a largada e trazendo um debate iraaado pra te mostrar as diferentes abordagens sobre a temática! 👀\n\nDe cara a gente já te conta que o Eduardo Valladares, nosso professor de redação, é o mediador e nossos convidados são a Criss Paiva e o Marcelo Adnet, pra falar sobre o assunto e dialogar sobre os possíveis argumentos pra usar no vestibular. \n\n~Spoiler que ainda vai rolar redação exemplar sobre o debate ~\n\n#DescomplicaDebate #Debate #DebateRedação #RedaçãoEnem #LimitesDoHumor #DebateEnem #Descomplica",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/0AngMnt3o6w/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/0AngMnt3o6w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/0AngMnt3o6w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF830BgG33zXDuZJM_qQnlfze",
+            "position": 1,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "0AngMnt3o6w"
+            }
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mjamiO8C8aBeQfQbe4qTpefuwGA\"",
+          "id": "UExnSVdIdGxQWUY4MzBCZ0czM3pYRHVaSk1fcVFubGZ6ZS4wMTcyMDhGQUE4NTIzM0Y5",
+          "snippet": {
+            "publishedAt": "2018-09-02T23:05:29.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "REDAÇÃO: ALIMENTAÇÃO IRREGULAR E OBESIDADE NO BRASIL l DEBATE DESCOMPLICA",
+            "description": "A Manuella Rangel e a Luiza Junqueira debateram, no aulão de véspero do Enem de 2017, sobre o a questão da alimentação irregular e a obesidade no Brasil, com mediação do Eduardo Valladares! Vem conferir! \n\nVeja 25 temas de redação que podem aparecer no Enem 2018: http://bit.ly/2wy94mK\n\n#DescomplicaDebate #Debate #DebateRedação #RedaçãoEnem #DebateEnem #Descomplica",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/H9nkSWngnl0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/H9nkSWngnl0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/H9nkSWngnl0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/H9nkSWngnl0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/H9nkSWngnl0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF830BgG33zXDuZJM_qQnlfze",
+            "position": 2,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "H9nkSWngnl0"
+            }
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8OkMZnIBqEmyDdYMasNW_Zsz6R4\"",
+          "id": "UExnSVdIdGxQWUY4MzBCZ0czM3pYRHVaSk1fcVFubGZ6ZS41MjE1MkI0OTQ2QzJGNzNG",
+          "snippet": {
+            "publishedAt": "2018-09-06T21:59:14.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "DEBATE DESCOMPLICA: A IMPORTÂNCIA DA DISCUSSÃO SOBRE SAÚDE MENTAL DOS JOVENS NO SÉCULO XXI",
+            "description": "Veja 25 temas de redação que podem aparecer no Enem 2018: http://bit.ly/2NpUrf8\n\nTalita Belletti e PC Siqueira debatem sobre a importância da discussão sobre saúde mental dos jovens no século XXI. A psicóloga e o criador do canal maspoxavida participam com mediação do professor Eduardo Valladares. Fique ligado em todas as dicas que vão ajudar você a lidar melhor com toda a pressão e ansiedade perto das provas. Além de ficar atualizado sobre o tema para mandar bem no ENEM.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jNxER32qi-s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jNxER32qi-s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jNxER32qi-s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/jNxER32qi-s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/jNxER32qi-s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF830BgG33zXDuZJM_qQnlfze",
+            "position": 3,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "jNxER32qi-s"
+            }
+          }
+        }
+      ]
+    },
+
+
+    {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/P1MILfsJF1jeHltX4wweDrUlZH4\"",
+      "pageInfo": {
+        "totalResults": 12,
+        "resultsPerPage": 50
+      },
+      "items": [
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8kaMKfQvNPSddhp3sqejJoFteUc\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC41NkI0NEY2RDEwNTU3Q0M2",
+          "snippet": {
+            "publishedAt": "2017-11-04T12:05:57.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "MAQUIA E FALA: GUERRA FRIA | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "BAIXE GRÁTIS SEU MAPA MENTAL SOBRE A GUERRA FRIA E POLARIZAÇÃO DO MUNDO: http://bit.ly/2h23vVJ\n\nImagina uma make que vai te ajudar a conquistar aquele boy tanto no bloco comunista quanto no capitalista? Hoje o Hansen vai te ensinar um tutorial pra entender a Guerra Fria e chegar chegando no ENEM! Dá o play e vem com a gente! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n\n✏️ Quer assinar o Descomplica com desconto agora? Clica aqui: http://bit.ly/2JZfy34\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yb9FZUcNu9s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yb9FZUcNu9s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yb9FZUcNu9s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/yb9FZUcNu9s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/yb9FZUcNu9s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 0,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "yb9FZUcNu9s"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IlR0RVEtTotgw-FjEAkMmW8fxG4\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC4yODlGNEE0NkRGMEEzMEQy",
+          "snippet": {
+            "publishedAt": "2017-11-04T14:37:29.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FIGURAS DE LINGUAGEM | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "BAIXE GRÁTIS O MAPA MENTAL SOBRE FIGURAS DE LINGUAGEM: http://bit.ly/2QmHHEP\n\nImagina um noticiário que só usa figuras de linguagem? No programa de hoje, trouxemos notícias que vão te ajudar a mandar bem na prova de Linguagens ou na redação do ENEM. Dá o play! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinue com a gente!\n\n✏️ Acesse o Descomplica: http://bit.ly/2Hops0H\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 1,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "hQqMVL6Lrzk"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/hAwApqaivHMrBDezCUTRKPNX9gs\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC4wMTcyMDhGQUE4NTIzM0Y5",
+          "snippet": {
+            "publishedAt": "2017-11-04T16:08:20.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "SMOOTHIE CHALLENGE: A REDAÇÃO PERFEITA NO ENEM! | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "O QUE ESPERAR DA REDAÇÃO DO ENEM: http://bit.ly/2zbQEZ8\n\nVocê quer milkshake, @? Nossos professores encararam o desafio do milkshake pra te ensinar a fazer a redação perfeita pro ENEM! Mas o que o smoothie challenge tem a ver com o vestibular? Dá o play pra descobrir! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n\n✏️ Acesse o Descomplica: http://bit.ly/2K3AI04\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/BxyaGwPzS5A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/BxyaGwPzS5A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/BxyaGwPzS5A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/BxyaGwPzS5A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/BxyaGwPzS5A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 2,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "BxyaGwPzS5A"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3SxzCSfOyhM-8SAapO_9pMYtLfE\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC41MjE1MkI0OTQ2QzJGNzNG",
+          "snippet": {
+            "publishedAt": "2017-11-04T21:29:21.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "MINHA MÃE É UMA FILÓSOFA | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "VEJA O QUE PODE CAIR NA SUA PROVA DE FILOSOFIA E SOCIOLOGIA NO ENEM: http://bit.ly/2h9CCmm\n\nA melhor mãe é a que te ajuda no ENEM, né? Imagina ser um filhão da Lara, a professora de Filosofia mais famosa do Brasil? Dá o play pra anotar as últimas dicas pra prova (e dar umas boas risadas). Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinue com a gente!\n\n✏️ Acesse o Descomplica: http://bit.ly/2Jo1YFw\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/l5gKi5CGIMM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/l5gKi5CGIMM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/l5gKi5CGIMM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/l5gKi5CGIMM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/l5gKi5CGIMM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 3,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "l5gKi5CGIMM"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yZJR_6FYdHOcfOPycpNzVsK1y2I\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC4wOTA3OTZBNzVEMTUzOTMy",
+          "snippet": {
+            "publishedAt": "2017-11-04T22:30:06.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "#TAMOJUNTOENEM: MESA REDONDA HISTÓRICA | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "SAIBA MAIS SOBRE A SEGUNDA GUERRA MUNDIAL: http://bit.ly/2zjlrWb\n\nHoje os nossos técnicos vão analisar algumas jogadas históricas! Começando com a Segunda Guerra Mundial, passando pela Era Vargas e terminando com as ditaduras militares na América Latina, eles mostram como você deve treinar pra arrasar no ENEM e gabaritar a prova de História! Dá o play! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cC8IHNOAJps/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cC8IHNOAJps/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cC8IHNOAJps/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/cC8IHNOAJps/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/cC8IHNOAJps/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 4,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "cC8IHNOAJps"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3FPyqZekTepRGOpxI3j3PDCNwHg\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC4xMkVGQjNCMUM1N0RFNEUx",
+          "snippet": {
+            "publishedAt": "2017-11-07T17:13:34.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "#TAMOJUNTOENEM | ESTILOS LITERÁRIOS: OS LOOKS DE CADA GÊNERO | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "Vamos conferir os looks mais baphônicos dos gêneros literários e aprender cada um deles da forma mais fácil e estilosa! O Diogo dá o recado! Dá o play! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis, pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/CLZnHpUVxd0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/CLZnHpUVxd0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/CLZnHpUVxd0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/CLZnHpUVxd0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/CLZnHpUVxd0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 5,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "CLZnHpUVxd0"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/y9lU6aoy7LkCeP4OgmwSxTcZV8s\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC41MzJCQjBCNDIyRkJDN0VD",
+          "snippet": {
+            "publishedAt": "2017-11-11T11:48:42.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "THE VOICE BIO BRASIL | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "BAIXE UM EBOOK GRÁTIS COM OS TOP 5 RESUMOS PARA O ENEM: http://bit.ly/2iPzusq\n\nVEJA O GABARITO DESCOMPLICA DE TODOS OS ANOS DO ENEM: http://bit.ly/2hpXFkC\n\nVocê quer, The Voice? Hoje os nossos mestres de Biologia parodiaram o melhor programa de calouros(!) da TV brasileira. No The Voice Bio Brasil, o Michel Telofase, a Odete sem Talo e o Lulu Plancton vão avaliar as dicas de Biologia dos monitores que vão te ajudar a mandar bem na prova de Ciências da Natureza desse ENEM! Esse é mais um L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o ENEM! ;) \n\n---\n\nContinue com a gente!\n\n✏️ Acesse o Descomplica: http://bit.ly/2vH3L6A\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/qsBaYsv053U/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/qsBaYsv053U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/qsBaYsv053U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/qsBaYsv053U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/qsBaYsv053U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 6,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "qsBaYsv053U"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Et8rSJiWaTGTn3jFSR2il-85nsM\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC5DQUNERDQ2NkIzRUQxNTY1",
+          "snippet": {
+            "publishedAt": "2017-11-11T11:48:48.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "RECEBIDOS DE FÍSICA PARA O ENEM | L.A.C.R.E.I. | #TAMOJUNTOENEM | DESCOMPLICA",
+            "description": "BAIXE UM EBOOK GRÁTIS COM AS FÓRMULAS DE FÍSICA PARA O ENEM: http://bit.ly/2zAtSfF\n\nVEJA O GABARITO DESCOMPLICA DO ENEM 2017: http://bit.ly/2yQiygr\n\nImagina que louco receber uns presentes dos seguidores e das marcas e ainda mandar bem na prova de Física do ENEM? O Leo fez esse vídeo de recebidinhos da semana pra você arrasar na prova de amanhã! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ZPZ2aWFnljI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ZPZ2aWFnljI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ZPZ2aWFnljI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/ZPZ2aWFnljI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/ZPZ2aWFnljI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 7,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "ZPZ2aWFnljI"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Uso8fY0xhnISgmNDE2xoMHshqf8\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC45NDk1REZENzhEMzU5MDQz",
+          "snippet": {
+            "publishedAt": "2017-11-11T11:48:53.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "VESTIBULANDOS E OS CRIMES CONTRA A MATEMÁTICA | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "BAIXE UM EBOOK GRÁTIS COM AS FÓRMULAS DE MATEMÁTICA PARA O ENEM: http://bit.ly/2zy0MxA\n\nVEJA O GABARITO DESCOMPLICA DO ENEM E ANOS ANTERIORES: http://bit.ly/2AuNKy8\n\nFOCA NESSE NOTICIÁRIO! Temos séries denúncias a fazer: vestibulandos estão assassinando a Matemática no ENEM! Corre pra saber o que te espera na prova de amanhã. Dá o play! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n✏️ Quer assinar o Descomplica com desconto? Clica aqui: http://bit.ly/2qQhQcb\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/KDq2wqj3p38/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/KDq2wqj3p38/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/KDq2wqj3p38/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/KDq2wqj3p38/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/KDq2wqj3p38/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 8,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "KDq2wqj3p38"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/42bXRMhd7V1EslTJCH3lzcP3dOE\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC5GNjNDRDREMDQxOThCMDQ2",
+          "snippet": {
+            "publishedAt": "2017-11-11T11:48:58.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "DESAFIO DA PISCINA DE GELO | MATEMÁTICA | #TAMOJUNTOENEM | L.A.C.R.E.I. | DESCOMPLICA",
+            "description": "BAIXE UM EBOOK GRÁTIS COM AS FÓRMULAS DE MATEMÁTICA PARA O ENEM: http://bit.ly/2iOgNp1\n\nVEJA O GABARITO DESCOMPLICA DO ENEM 2017: http://bit.ly/2zxqAKl\n\nO que a gente não faz pra te ensinar, não é mesmo? Os nossos professores passaram o maior perrengue pra provar que até quem é de Humanas consegue aprender Matemática com a gente de um jeito bem fácil! Duvida? Dá o play pra arrasar no ENEM! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/uKmbwBqxY48/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/uKmbwBqxY48/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/uKmbwBqxY48/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/uKmbwBqxY48/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/uKmbwBqxY48/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 9,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "uKmbwBqxY48"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LS4QoZ6tkxAISOplwqOzMlUKHPk\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC40NzZCMERDMjVEN0RFRThB",
+          "snippet": {
+            "publishedAt": "2017-11-11T11:49:04.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "DESAFIO DO DUREX COM QUESTÕES DE BIOLOGIA | L.A.C.R.E.I. | #TAMOJUNTOENEM | DESCOMPLICA",
+            "description": "BAIXE UM EBOOK GRÁTIS COM OS TOP 5 RESUMOS PARA O ENEM: http://bit.ly/2iMzKIQ\n\nVEJA O GABARITO DESCOMPLICA DO ENEM 2017: http://bit.ly/2hpXFkC\n\nO pessoal do marketing inventa cada uma. Hoje foi a vez do Oda e do Bandeira encararem o desafio da fita adesiva, mas com questões de Biologia! A gente faz de tudo pra ver você gabaritando o ENEM! Dá o play! Esse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o vestibular!\n\n---\n\nContinua com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/LKaf5Vmbmhk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/LKaf5Vmbmhk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/LKaf5Vmbmhk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/LKaf5Vmbmhk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/LKaf5Vmbmhk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 10,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "LKaf5Vmbmhk"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YptU63Z_TcC4p8MTd81_ByPVrgI\"",
+          "id": "UExnSVdIdGxQWUY4MkhNTDNaSURfaU14QXNac18wUnEzeC5EMEEwRUY5M0RDRTU3NDJC",
+          "snippet": {
+            "publishedAt": "2018-07-05T17:21:20.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "L.A.C.R.E.I. | MESA REDONDA HISTÓRICA DA COPA DO MUNDO 2018 | DESCOMPLICA",
+            "description": "BAIXE UM EBOOK GRÁTIS COM DICAS PARA ESTUDAR TODAS AS DISCIPLINAS DO ENEM: http://bit.ly/2zd95QU\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2IWJHyC\n\nEsse é o L.A.C.R.E.I.: Loucas Aulas Com Resumos Épicos e Incríveis pra você gabaritar o ENEM! Voltamos com um programa especial sobre a Copa do Mundo 2018. Nossos técnicos estão na Rússia e vão comentar a Copa com um olhar beeeem voltado pro vestibular? Quem venceria a Copa das guerras, por exemplo? E o Duelo do IDH? Quer descobrir mais curiosidades que podem ajudar na sua prova? Dá o play? ;)\n\n---\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplica.videoaulas\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/w9TLuXUWdl8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/w9TLuXUWdl8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/w9TLuXUWdl8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/w9TLuXUWdl8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/w9TLuXUWdl8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+            "position": 11,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "w9TLuXUWdl8"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/haj6U62IbVodqYohMe_x0b9uPAs\"",
+      "pageInfo": {
+        "totalResults": 6,
+        "resultsPerPage": 50
+      },
+      "items": [
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ip3hDwn3d36ggIlBfZSwnku-KaA\"",
+          "id": "UExnSVdIdGxQWUY4MjdzOS1YNmk4RFBUVnhRVzZORXFuNy41NkI0NEY2RDEwNTU3Q0M2",
+          "snippet": {
+            "publishedAt": "2015-09-19T20:40:03.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Dramas de Vestibulando - Vida de Vestibulando | Descomplica",
+            "description": "Olá #EstudanteDescomplica!\nTodos já passamos por essa fase que é prestar vestibular. O Brunno veio falar de alguns dramas que todo estudante já teve que enfrentar. E aí, qual o seu drama? Para assistir todo o conteúdo do Descomplica, vá em http://bit.ly/1xD79cJ. Estude com a gente e fique afiado para o Enem :D\n\n• Veja as listas do blog!\nhttp://desconversa.com.br/categoria/historia/lista-his/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1062ppLajj0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1062ppLajj0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1062ppLajj0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/1062ppLajj0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/1062ppLajj0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7",
+            "position": 0,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "1062ppLajj0"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2Bn9skzeRP2KZvK4Miro7CByOb4\"",
+          "id": "UExnSVdIdGxQWUY4MjdzOS1YNmk4RFBUVnhRVzZORXFuNy41MjE1MkI0OTQ2QzJGNzNG",
+          "snippet": {
+            "publishedAt": "2015-10-01T14:37:33.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "O Drama de Escolher o Curso - Vida de Vestibulando | Descomplica",
+            "description": "Olá #EstudanteDescomplica!\nDeixou pra escolher o curso na nota de corte né? Sabia! Mas relaxa que você não é o único ;) \n\nPara assistir todo o conteúdo do Descomplica, vá em http://bit.ly/1xD79cJ. Estude com a gente e fique afiado para o Enem :D",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jrYwWABp1ag/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jrYwWABp1ag/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jrYwWABp1ag/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/jrYwWABp1ag/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/jrYwWABp1ag/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7",
+            "position": 1,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "jrYwWABp1ag"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/T1TYqs7Y1STgPGc-9cRG-Nuz5NY\"",
+          "id": "UExnSVdIdGxQWUY4MjdzOS1YNmk4RFBUVnhRVzZORXFuNy4wOTA3OTZBNzVEMTUzOTMy",
+          "snippet": {
+            "publishedAt": "2015-10-07T23:32:28.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Procrastinação - Vida de Vestibulando | Descomplica",
+            "description": "Olá #EstudanteDescomplica1\nEssa descrição demorou mais ou menos 7 dias para ficar pronta. Também sofre desse mal? Vem com o Brunno que ele vai falar um pouco dessa doença dos tempos de vestibular. Para assistir todo o conteúdo do Descomplica, vá em http://bit.ly/1xD79cJ. Estude com a gente e fique afiado para o Enem :D\n\n• Já viu o post do blog?\nhttp://bit.ly/1GwRNGG",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/a_h63AAM6hc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/a_h63AAM6hc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/a_h63AAM6hc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/a_h63AAM6hc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/a_h63AAM6hc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7",
+            "position": 2,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "a_h63AAM6hc"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_bLzMpt_VDdg2FL6NBtPEk_3dLU\"",
+          "id": "UExnSVdIdGxQWUY4MjdzOS1YNmk4RFBUVnhRVzZORXFuNy4xMkVGQjNCMUM1N0RFNEUx",
+          "snippet": {
+            "publishedAt": "2015-10-14T22:03:29.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "A Redação do ENEM - Vida de Vestibulando | Descomplica",
+            "description": "Olá #EstudanteDescomplica!\nEu sei que é só falar em Redação do ENEM que já dá aquele tremor nas pernas e qualquer vestibulando começa a suar frio. O Brunno citou aqui os maiores dramas que todo mundo passa antes da redação do ENEM. Para assistir todo o conteúdo do Descomplica, vá em http://bit.ly/1xD79cJ. Estude com a gente :D\n\n• Post do Blog aqui:\nhttp://bit.ly/1G6ornP",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/rdxFw28DanM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/rdxFw28DanM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/rdxFw28DanM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/rdxFw28DanM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/rdxFw28DanM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7",
+            "position": 3,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "rdxFw28DanM"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WcsKszx81CiVGwWeCBWWpbFhoHc\"",
+          "id": "UExnSVdIdGxQWUY4MjdzOS1YNmk4RFBUVnhRVzZORXFuNy41MzJCQjBCNDIyRkJDN0VD",
+          "snippet": {
+            "publishedAt": "2015-10-22T14:43:10.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Como Sobreviver ao ENEM - Vida de Vestibulando | Descomplica",
+            "description": "Olá #EstudanteDescomplica!\nChegou a data, o dia para qual você estudou o ano todo. E é claro que o Brunno não ia deixar passar sem fazer o manual de sobrevivência do ENEM. \n\n• Como não ter um dia horrível fazendo o ENEM\nhttp://bit.ly/1LpObdJ\n\n• Fique ligado no nosso gabarito depois da prova!\nhttp://bit.ly/1kvTdwv",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WcX0pBTGxHc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WcX0pBTGxHc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WcX0pBTGxHc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/WcX0pBTGxHc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/WcX0pBTGxHc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7",
+            "position": 4,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "WcX0pBTGxHc"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aRvar3jnvys5H-nDDGDfILoh_ko\"",
+          "id": "UExnSVdIdGxQWUY4MjdzOS1YNmk4RFBUVnhRVzZORXFuNy5DQUNERDQ2NkIzRUQxNTY1",
+          "snippet": {
+            "publishedAt": "2017-05-04T18:40:50.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "Humanas vs. Exatas - Vida de Vestibulando | Descomplica",
+            "description": "Olá #EstudanteDescomplica!\nE aí, você é de humanas ou exatas? Faça aqui o teste: http://bit.ly/1YCrbiy\n\nPara assistir todo o conteúdo do Descomplica, vá em http://bit.ly/1xD79cJ. Estude com a gente e fique afiado para o Enem :D",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/x0Rh76ooT-o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/x0Rh76ooT-o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/x0Rh76ooT-o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/x0Rh76ooT-o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/x0Rh76ooT-o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7",
+            "position": 5,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "x0Rh76ooT-o"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iHw5Fg2wvHs14ScaDVJbNtH32Zo\"",
+      "pageInfo": {
+        "totalResults": 9,
+        "resultsPerPage": 50
+      },
+      "items": [
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_524xKDmW2tbykkq0DTzNRmxEh4\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC4wMTcyMDhGQUE4NTIzM0Y5",
+          "snippet": {
+            "publishedAt": "2018-05-18T01:22:23.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | A HORA É AGORA! | GABRIELY DUTRA",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2wyT9Y0\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2wyT9Y0\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/d2OnB7otVoQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/d2OnB7otVoQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/d2OnB7otVoQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/d2OnB7otVoQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/d2OnB7otVoQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 0,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "d2OnB7otVoQ"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7fn67TXx79I8lnnf-QlPRoxiIaI\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC41NkI0NEY2RDEwNTU3Q0M2",
+          "snippet": {
+            "publishedAt": "2018-05-18T01:22:23.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | A HORA É AGORA! | JULIA MUNIZ",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2rSXSht\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2rSXSht\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 1,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "r_PJ35wS3-o"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/19MpCKZLvU3HEVsmoyxtG88WhkY\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC4xMkVGQjNCMUM1N0RFNEUx",
+          "snippet": {
+            "publishedAt": "2018-05-25T21:04:13.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | A HORA É AGORA! | ALISSON COSTA",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2KSaMo0\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2KSaMo0\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/9cSNcriRw9s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/9cSNcriRw9s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/9cSNcriRw9s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/9cSNcriRw9s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/9cSNcriRw9s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 2,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "9cSNcriRw9s"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Or6AEYsxEZ0XVFPlIBDugpN3-Cc\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC41MjE1MkI0OTQ2QzJGNzNG",
+          "snippet": {
+            "publishedAt": "2018-05-18T01:26:28.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | A HORA É AGORA! | CAROLINE VAZ",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2ruhtVf\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2ruhtVf\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/K2z6dycKpzE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/K2z6dycKpzE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/K2z6dycKpzE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/K2z6dycKpzE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/K2z6dycKpzE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 3,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "K2z6dycKpzE"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/STzEpFR6MXPLYBQ8rXmvDl6-o6U\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC4yODlGNEE0NkRGMEEzMEQy",
+          "snippet": {
+            "publishedAt": "2018-05-18T01:22:23.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | A HORA É AGORA! | ALLAN MENEZES",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2k19V99\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2k19V99\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/66o3tYqcsYw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/66o3tYqcsYw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/66o3tYqcsYw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/66o3tYqcsYw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/66o3tYqcsYw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 4,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "66o3tYqcsYw"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pRyuZpau-sKp1CNj7Q0kBwbAEA0\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC4wOTA3OTZBNzVEMTUzOTMy",
+          "snippet": {
+            "publishedAt": "2018-05-23T01:24:10.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | A HORA É AGORA! | GABRIELA MOURA",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2kiuBtj\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2s6IxtE\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/uEuHdFKPusk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/uEuHdFKPusk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/uEuHdFKPusk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/uEuHdFKPusk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/uEuHdFKPusk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 5,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "uEuHdFKPusk"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jiOCh1dUD-_DIGzsXIbATOT9MKU\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC41MzJCQjBCNDIyRkJDN0VD",
+          "snippet": {
+            "publishedAt": "2018-06-20T14:40:38.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | HISTÓRIAS INCRÍVEIS QUE VOCÊ PRECISA OUVIR | GUILHERME ANDRADE",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2I7dvIi\n________\n\nSerá que a aprovação na Federal é o único caminho possível para um estudante dedicado? Conheça a história do Guilherme Andrade, estudante de Psicologia com 100% de bolsa no Prouni que abriu mão de estudar em uma universidade federal para ficar mais próximo da mãe que precisou dos seus cuidados em um momento crucial na vida de todo jovem. Assista ao vídeo e entenda!\n\nCONHEÇA OUTRAS HISTÓRIAS INCRÍVEIS DO DESCOMPLICA: http://bit.ly/2K24LVs\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2wyT9Y0\n✏️ Facebook: https://www.facebook.com/descomplica....\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/3Bh25rjf0Q8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/3Bh25rjf0Q8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/3Bh25rjf0Q8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/3Bh25rjf0Q8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/3Bh25rjf0Q8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 6,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "3Bh25rjf0Q8"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XF-avBu4g8SkUIkDH1LVFn8wj58\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC5DQUNERDQ2NkIzRUQxNTY1",
+          "snippet": {
+            "publishedAt": "2018-06-27T14:37:56.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | A HORA É AGORA! | ELVIRA E GIOVANNA",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2018: http://bit.ly/2IuEj5y\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2IuEj5y\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/x-usO8AM2e0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/x-usO8AM2e0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/x-usO8AM2e0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/x-usO8AM2e0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/x-usO8AM2e0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 7,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "x-usO8AM2e0"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MIzSYyzz1PetVsh6m1K3t6-rSII\"",
+          "id": "UExnSVdIdGxQWUY4M2pPbWVKSmxnaFAwUWdwREZ2enFJdC45NDk1REZENzhEMzU5MDQz",
+          "snippet": {
+            "publishedAt": "2019-02-14T18:27:33.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "FAMÍLIA DESCOMPLICA | LUCAS PEIXOTO",
+            "description": "ASSINE AGORA COM DESCONTO E COMECE A SUA JORNADA ATÉ A APROVAÇÃO NO ENEM 2019: http://bit.ly/2S5RMpj\n\n---\n\nContinue com a gente!\n\n✏️ Conheça os planos Descomplica: http://bit.ly/2wyT9Y0\n✏️ Facebook: https://www.facebook.com/descomplica.vestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/S18i5uA19j0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/S18i5uA19j0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/S18i5uA19j0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/S18i5uA19j0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/S18i5uA19j0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+            "position": 8,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "S18i5uA19j0"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8xMiRYI79CUNXesgKfcs2a8bATo\"",
+      "pageInfo": {
+        "totalResults": 11,
+        "resultsPerPage": 50
+      },
+      "items": [
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nP5IXRM2usAeeMSYtgVJU-w-ARs\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy5EMEEwRUY5M0RDRTU3NDJC",
+          "snippet": {
+            "publishedAt": "2019-03-08T19:56:33.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA IN MY FEELINGS - DRAKE | IN MY ELETRO | DESCOMPLICA",
+            "description": "📢ASSINE O DESCOMPLICA COM DESCONTO: http://bit.ly/2J1fP9l\n\nQuem disse que o Léo não dava um show em física? Ele é uma das estrelas que vai te acompanhar na sua caminhada até a prova do Enem. Está pronto pra gabaritar a prova de física?\n\nNão vai perder, né? 🤩   \n\nDeixe o seu like e COMENTA! 😍\n\n#fisica #resumoenem #descomplica #relashow\n\n--\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplicavestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/nfIqIXZPL1Y/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/nfIqIXZPL1Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/nfIqIXZPL1Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/nfIqIXZPL1Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/nfIqIXZPL1Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 0,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "nfIqIXZPL1Y"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nPS9fBF5F7IaC2ikneM3t0LxOzw\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy40NzZCMERDMjVEN0RFRThB",
+          "snippet": {
+            "publishedAt": "2019-03-01T20:54:25.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA FULERAGEM - MC WM | VARGUINHAS |  DESCOMPLICA",
+            "description": "📢ASSINE O DESCOMPLICA COM DESCONTO: http://bit.ly/2GUbIu3\n\nQuer aprender Era Vargas para o Enem 2019? Vem com o Pelli nessa paródia!\n\nNão vai perder, né? 🤩   \n\nSe curtir este vídeo, deixe o seu like e COMENTA! 😍\n\n#história #resumoenem #descomplica #relashow\n\n--\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplicavestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 1,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "C4dcX2CTHlQ"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ShqG4Hab2wtJG_bW0gmsQP0Y9Po\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy5GNjNDRDREMDQxOThCMDQ2",
+          "snippet": {
+            "publishedAt": "2019-03-01T20:45:09.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA APELIDO CARINHOSO - GUSTTAVO LIMA | APELIDO DE GUERRA | DESCOMPLICA",
+            "description": "📢ASSINE O DESCOMPLICA COM DESCONTO: http://bit.ly/2TpS274\n\nQuer coisa melhor do que aprender história para o Enem com um professor desse?\n\nNão vai perder, né? 🤩   \n\nDeixe o seu like e COMENTA! 😍\n\n#historia #resumoenem #descomplica #relashow\n\n--\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplicavestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1jdhfo8XOkE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1jdhfo8XOkE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1jdhfo8XOkE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/1jdhfo8XOkE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/1jdhfo8XOkE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 2,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "1jdhfo8XOkE"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WfXYg99s2gBS00R5_j4w_ICRTrA\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy45NDk1REZENzhEMzU5MDQz",
+          "snippet": {
+            "publishedAt": "2019-02-22T17:37:15.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA VAI MALANDRA | ANITTA | VAI, COMBINA! | DESCOMPLICA",
+            "description": "📢ASSINE O DESCOMPLICA COM DESCONTO: http://bit.ly/2XirYtF\n\nQuer estudar análise combinatória? Vem com a titia Luanna nesse funk pra nunca mais esquecer. Pra você combinar suas brusinhas e tirar um notão em matemática no Enem 2019.\n\nNão vai perder, né? 🤩   \n\nSe curtir este vídeo, deixe o seu like e COMENTA! 😍\n\n#matematica #resumoenem #descomplica #relashow\n\n--\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplicavestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/7l5WKKLRZaw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/7l5WKKLRZaw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/7l5WKKLRZaw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/7l5WKKLRZaw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/7l5WKKLRZaw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 3,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "7l5WKKLRZaw"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/uilFXkJSaRbPV_DKw5Ucgpo9RNA\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy5DQUNERDQ2NkIzRUQxNTY1",
+          "snippet": {
+            "publishedAt": "2018-12-04T13:49:06.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA DEIXA ROLAR | MC KEKEL | DEIXA NITROGENAR | PROFESHOW | DESCOMPLICA",
+            "description": "✏️ORGANIZE AS MATÉRIAS DE BIOLOGIA NUM CHECKLIST TOP: http://bit.ly/2zKgGnM\n\n📢ASSINE O DESCOMPLICA COM DESCONTO: http://bit.ly/2zKifSG\n\nVestibulandos desse nosso Brasil, tudo certo? Esperamos que sim porque o vídeo de hoje é maravicherry! Daremos continuidade a série de paródias que rolaram no Relashow - nosso aulão de revisão para o Enem 2018! Nossa ilustríssima estreia foi com o Hansen cantando para gente sobre o processo de obsolescência programa. Mas como um estudante não vive apenas de Humanas, a paródia da vez é do Oda! Nunca entendeu muito bem sobre o Ciclo do Nitrogênio? Então, essa é a sua chance de brilhar! \n\nNão vai perder, né? 🤩   \n\nSe curtir este vídeo, deixe o seu like e COMENTA! 😍\n\n#biologia #resumoenem #descomplica #relashow\n\n--\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplicavestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/VGIkqbjTW5Y/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/VGIkqbjTW5Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/VGIkqbjTW5Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/VGIkqbjTW5Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/VGIkqbjTW5Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 4,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "VGIkqbjTW5Y"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1-ubGEdm3BAvXAjo8Rkj9PhqIAA\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy41MzJCQjBCNDIyRkJDN0VD",
+          "snippet": {
+            "publishedAt": "2018-11-30T20:51:43.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA AMAR, AMEI | MC DON JUAN | GOOGLE, APPLE | PROFESHOW | DESCOMPLICA",
+            "description": "📢ASSINE O DESCOMPLICA COM DESCONTO: http://bit.ly/2SnWfUM\n\n✏️ORGANIZE AS MATÉRIAS DE GEOGRAFIA NUM CHECKLIST TOP: http://bit.ly/2AALdUR\n\nQueridões e queridonas, essa é para galera ama aprender de uma forma diferente! Se você esteve com a gente durante o Relashow - aulão de revisão para o Enem 2018 -, esse é o seu momento. Ao longo do mês de dezembro, iremos disponibilizar aqui no canal todas as paródias super pedagógicas que rolaram nos dois dias! E para estrear essa série, contamos com ele, o futuro presidente do Brasil: Hansen! \n\nNão vai perder, né? 🤩   \n\nSe curtir este vídeo, deixe o seu like e COMENTA! 😍\n\n#geografia #resumoenem #descomplica #relashow\n\n--\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplicavestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/sVPOFJCHPzs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/sVPOFJCHPzs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/sVPOFJCHPzs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/sVPOFJCHPzs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/sVPOFJCHPzs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 5,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "sVPOFJCHPzs"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ajNRATaAzycs3H9pMz8zL2VjEQ0\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy4xMkVGQjNCMUM1N0RFNEUx",
+          "snippet": {
+            "publishedAt": "2018-11-30T18:56:16.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "SOCIEDADE E COMPORTAMENTO | CITAÇÕES ACAPELLA | DESCOMPLICA",
+            "description": "✏️QUER USAR ESSAS CITAÇÕES? CONFIRA TEMAS DE REDAÇÃO QUENTÍSSIMOS PARA COLOCÁ-LAS EM PRÁTICA: http://bit.ly/2Sh24mK\n\n📢ASSINE O DESCOMPLICA COM DESCONTO: http://bit.ly/2zBqyAf\n\nConferiu o Relashow, mas perdeu algum detalhe importante? Queria anotar as dicas todas para estudar em casa? Seu sonho de princesa é decorar as letras das paródias? Calma, querubim amado! 👼🏽Chegamos com a solução dos seus problemas! Ao longo do mês de dezembro, iremos publicar aqui no canal alguns dos momentos mais legais que rolaram no aulão! Hoje, deixaremos com vocês as citações que podem ser usadas em temas de redação sobre Sociedade! Quem soltou o verbo foi o Vallad e, de quebra, ele ainda deu um caldo sobre como escrever uma dissertação maneira!\n\nNão vai perder, né? 🤩   \n\nSe curtir este vídeo, deixe o seu like e COMENTA! 😍\n\n#redação #resumoenem #descomplica #relashow\n\n--\n\nContinue com a gente!\n\n✏️ Facebook: https://www.facebook.com/descomplicavestibulares\n✏️ Twitter: https://twitter.com/descomplica\n✏️ Instagram: https://www.instagram.com/descomplica/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/H7ujLPzxGSY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/H7ujLPzxGSY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/H7ujLPzxGSY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/H7ujLPzxGSY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/H7ujLPzxGSY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 6,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "H7ujLPzxGSY"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RWzaCvOsadK-5MYoLveJA57UDNo\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy4wOTA3OTZBNzVEMTUzOTMy",
+          "snippet": {
+            "publishedAt": "2018-10-23T17:37:30.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "MÚSICA INÉDITA: GABARITEY | PANKADON | AULÃO RELASHOW ENEM 2018",
+            "description": "💚Assine o Descomplica com desconto: http://bit.ly/2NULU1H\n\nChegou a hora de gabaritar! Nossa nova música do Aulão Relashow trouxe o Pankadon pra lembrar tudo o que você precisa na hora de fazer a redação do Enem 2018. A batida de \"Gabaritey\" vai ficar na sua cabeça e te ajudar a tirar a tão sonhada nota 1000 na redação. Quer mais? É só se inscrever no maior aulão do mundo transmitido pelo Descomplica. Na véspera do Enem, você vai aprender e relaxar com FitDance, Fernando & Sorocaba, Castro Brothers, Pankadon, e todos os professores que você mais ama. Garanta sua vaga!\n\n\n\nLETRA\n\nGabaritey tey tey\n\nPrimeiro, eu leio e penso,\ndepois, escrevo tudo\nNa tese eu te convenço\nNão falta conteúdo\n\nDe cinco a sete linhas\nContextualizo o estudo\nO argumento é brabo\nparece até o google\n\nNão é com a caneta azul, só vai com a caneta preta\ncom menos de sete linhas pode crer que vai dar treta\n\nNão é com a caneta azul, só vai com a caneta preta\nse não seguir o tema pode crer que vai dar treta\n\nGabaritey tey tey\n\nPonto de vista é essencial\nSe tu citar cultura pop tu vai embrazar geral\n\nE nunca se esqueça do tópico frasal\nretoma a tese, intervenção, o texto-circuito tá no grau\n\nCitei Rousseau e Foucault\nRousseau e Foucault\ntambém Sarei legal\nSara sara Saramago\nSara sara Saramago\nSara sara Saramago\nai assim eu esculacho\n\nNão é com a caneta azul, só vai com a caneta preta\ncom menos de sete linhas pode crer que vai dar treta\n\nNão é com a caneta azul, só vai com a caneta preta\nse não seguir o tema pode crer que vai dar treta\n\nGabaritey tey tey",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/LtbIDHnuguw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/LtbIDHnuguw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/LtbIDHnuguw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/LtbIDHnuguw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/LtbIDHnuguw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 7,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "LtbIDHnuguw"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EU6LU1CjeQhDjLebOlbUm9_xPHQ\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy41MjE1MkI0OTQ2QzJGNzNG",
+          "snippet": {
+            "publishedAt": "2018-10-16T01:21:59.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA ENCAIXA | CASTRO BROTHERS | A FÓRMULA ENCAIXA | AULÃO RELASHOW ENEM 2018",
+            "description": "💚Assine o Descomplica com desconto: http://bit.ly/2SP7MMD\n\n#RelashowEnem #Enem2018\n\nChegamos até a paródia da área mais temida do Enem: a matemática! O Descomplica juntou o Castro Brothers com os professores mais queridos de Matemática Luanna e Alex para rebolarem e ensinarem ao som de A Fórmula Encaixa, uma paródia do Mc Kevinho! Na paródia de hoje você aprende inúmeras fórmulas essenciais para você lembrar na hora do Enem 2018. Se você quiser ver mais, é só se inscrever no Aulão Relashow. A maior aula do mundo transmitida na véspera do Enem!\n\nLETRA\n\nComposição: Marcos Castro\n\nÉ Castro Brothers e Descomplica\nÉ Descomplica  e Castro Brothers \n\nVem ver\nGeometria espacial é o conteúdo\nDo prisma à esfera, vou falar o volume de tudo\nNa esfera é 4 pi r ao cubo sobre três      (4πr³/ 3)\nE o volume do prisma eu já vou dizer\n\nEle é \nA área da base vezes a altura em todo mundo!  (Ab.h)\nSe liga na fórmula quando o objeto é pontudo\nÉ a área da base vezes a altura sobre três   (Ab.h / 3)\nEu vou repetir pra você entender\n\nEla encaixa\nSe for um cone a fórmula\nEncaixa\nSe for pirâmide a fórmula\nEncaixa\nQuando tem bico\nAí pode usar\nPerfeitamente\nEla encaixa\n\nSe for um cone a fórmula\nEncaixa\nSe for pirâmide a fórmula\nEncaixa\nQuando tem bico\nAí pode usar\nPerfeitamente\nEla encaixa\n\nIsso é geometria, fio\nPra não errar mais nada\nNunca mais\n\nVem ver\nGeometria espacial é o conteúdo\n6 l ao quadrado é a área total do cubo\nA área do cone é pi r vezes r mais g        (π.r (r+g))\ng é a geratriz, não vai esquecer\n\nLembre (lembre, lembre)\n1 litro é 1 decímetro cúbico em todo o mundo\nE olha o volume quando o objeto é pontudo\nÉ a área da base vezes a altura sobre três\nEu vou repetir pra você entender\n\nEla encaixa\nSe for um cone a fórmula\nEncaixa\nSe for pirâmide a fórmula\nEncaixa\nQuando tem bico\nAí pode usar\nPerfeitamente\nEla encaixa\n\nSe for um cone a fórmula\nEncaixa\nSe for pirâmide a fórmula\nEncaixa\nQuando tem bico\nAí pode usar\nPerfeitamente\nEla encaixa\n\nSe for um cone a fórmula\nEncaixa\nSe for pirâmide a fórmula\nEncaixa\nQuando tem bico\nAí pode usar\nPerfeitamente\nEla encaixa\n\nIsso é geometria, fio\nÉ só chegar o gabarito\n\nPerfeitamente\nEla encaixa",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yJdgwWuQ2U0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yJdgwWuQ2U0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yJdgwWuQ2U0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/yJdgwWuQ2U0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/yJdgwWuQ2U0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 8,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "yJdgwWuQ2U0"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bf-3d67LJK4ILQVbE5iiHOPJrUs\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy4wMTcyMDhGQUE4NTIzM0Y5",
+          "snippet": {
+            "publishedAt": "2018-10-09T16:48:59.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA CADA UM NA SUA | FERNANDO & SOROCABA | CADA GÁS NA SUA | AULÃO RELASHOW ENEM 2018",
+            "description": "💚Assine o Descomplica com desconto: http://bit.ly/2VJZ4RM\n\n#RelashowEnem #Enem2018\n\nSaiu mais uma paródia do Descomplica para você aprender e relaxar no Enem 2018. A dupla Fernando & Sorocaba fez uma versão da música “Cada um na Sua” para explicar sobre um dos assuntos mais recorrentes dos vestibulares: o efeito estufa. Em “Cada Gás na Sua” você aprende o que nossos professores de Biologia e Química ensinam aqui no Descomplica, no maior modão sertanejo. Se você quiser ver mais, é só se inscrever no Aulão Relashow. A maior aula do mundo transmitida na véspera do Enem!\n\nLETRA:\nArtista: Fernando e Sorocaba\nComposição: Marcos Castro\n\nOlha só, \nO efeito estufa é um problema, sim\nMas não é de todo ruim\n\nA radiação vem do Sol, ela é absorvida\nMas só parte é refletida\nÉ a atmosfera que deixa a Terra aquecida\nCalor consegue reter\n\nO efeito estufa me faz viver\nO efeito estufa me faz viver\n\nMas espere agora um segundo\nOs gases responsáveis só crescem no mundo\nO CO2 tá concentrado\nMetano concentrado\nÓxido nitroso, \nClorofluorcarboneto também\n\nCom o efeito estufa o mundo aqueceu\nCom o efeito estufa o mundo aqueceu\n\nLá nos polos as calotas\nPodem até chegar ao fim\nE tem mais notícia ruim\n\nO aquecimento global pode mudar o clima\nFuracões, secas, ventanias\nCom a alteração das correntes, espécies marinhas\nPodem desaparecer\n\nCom o efeito estufa o mundo aqueceu\nCom o efeito estufa o mundo aqueceu\n\nÉ possível, sim, mudar de rumo\nCom atitudes dá pra melhorar o mundo\nReflorestar é necessário\nCom fontes renováveis\nde energia pode-se viver\n\nCom o efeito estufa o mundo aqueceu\nCom o efeito estufa o mundo aqueceu",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fK_mv6_596Y/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fK_mv6_596Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fK_mv6_596Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/fK_mv6_596Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/fK_mv6_596Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 9,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "fK_mv6_596Y"
+            }
+          }
+        },
+        {
+
+          "kind": "youtube#playlistItem",
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8pqqOE3FW1-mSQstYF3UBGSteNU\"",
+          "id": "UExnSVdIdGxQWUY4MXM2MlJBMnU3M1ZJMzZZZGFDbXVsNy4yODlGNEE0NkRGMEEzMEQy",
+          "snippet": {
+            "publishedAt": "2018-10-03T02:39:28.000Z",
+            "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+            "title": "PARÓDIA BELLA CIAO | FITDANCE | HEAVY BAILE | REVOLUÇÃO INDUSTRIAL | AULÃO RELASHOW ENEM 2018",
+            "description": "💚Assine o Descomplica com desconto: http://bit.ly/2SP5P2T\n\n#RelashowEnem #Enem2018\n\nAproveite uma, das muitas paródias exclusivas, que o Descomplica preparou para você ficar afiado na reta final do Enem enquanto relaxa dançando! Na edição de hoje temos o professor de Geografia Hansen, de Sociologia e Filosofia Lara Rocha e de História Renato Pellizzari se juntando ao rebolado do FitDance, batidão do Heavy Baile, para ensinar tudo sobre Revolução Industrial para você! \n\nLETRA:\nComposição: Marcos Castro\n\nÉ mais uma do Descomplica\nGarantindo a aprovação\nE aê Hansen\nVamo que vamo, pode chegar pra cá que vai começar a revolução, hein\nHoje a revolução é industrial, hein, Lara\n\nSobrou uma grana \ncom a mais-valia\nÉ o capital, capital\nCapital, tal, tal\nDizia ela, \nA burguesia\nQue aprendeu com Adam Smith\n(Adam Smith, Adam Smith, vai)\n\nNa Grã-Bretanha (vai, vai)\nQue se inicia (vai, vai)\nRevolução Industrial\nIndustrial, al, al\nCarvão e ferro (vai, vai)\nMatérias-primas (vai, vai)\nE na máquina investir\n\nArtesão tá fora dessa\nNão tem lugar aqui\nSai daqui...\nVai, vai, vai\nSai daqui…\nVai, vai, vai\nSai daqui…\nVai, vai, vai\n\nPra zona urbana (vai, vai)\nO povo migra (vai, vai)\nMas se dão mal, se dão mal, \nse dão mal, mal, mal\nQuase dezoito (ai, ai)\nHoras por dia (vai, vai)\nSindicato tem que agir\n\nE aê Hansen, vamo dá uma acelerada nessa produção aí lekão\nIsso, isso, do jeito que o patrão gosta\n\nSobrou uma grana \ncom a mais-valia\nÉ o capital, capital,\nCapital, tal, tal\nDizia ela, \nA burguesia\nQue aprendeu com Adam Smith\n(Adam Smith, Adam Smith, vai)\n\nNa Grã-Bretanha (vai, vai)\nQue se inicia (vai, vai)\nRevolução Industrial\nIndustrial, al, al\nCarvão e ferro (vai, vai)\nMatérias-primas (vai, vai)\nE na máquina investir\n\nArtesão tá fora dessa\nNão tem lugar aqui\nSai daqui...\nVai, vai, vai\nSai daqui...\nVai, vai, vai\nSai daqui...\nVai, vai, vai\n\nPra zona urbana (vai, vai)\nO povo migra (vai, vai)\nMas se dão mal, se dão mal, \nse dão mal, mal, mal\nQuase dezoito (ai, ai)\nHoras por dia (vai, vai)\nSindicato tem que agir\n\n---",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8BVBztnlvTg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8BVBztnlvTg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8BVBztnlvTg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/8BVBztnlvTg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/8BVBztnlvTg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Descomplica",
+            "playlistId": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+            "position": 10,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "8BVBztnlvTg"
+            }
+          }
+        }
+      ]
+    }
+
+
+
+
+
+  ]
+}

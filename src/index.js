@@ -32,8 +32,8 @@ class Navbar extends React.Component{
                     <li><a href="#" onClick={() => this.handleClick(true)}>dFlix</a></li>
                     <li><a href="#" onClick={() => this.handleClick(false)}>Em Alta</a></li>
                     <li><a href="#" onClick={() => this.handleClick(false)}>Adicionados Recentemente</a></li>
-                    {/*<li><Form inline>*/}
-                        {/*<FormControl type="text" placeholder="Search" className="mr-sm-2" />*/}
+                    {/*<li className={'right'}> <Form inline>*/}
+                        {/*<FormControl md="10" type="text" placeholder="Search" className="mr-sm-2" />*/}
                         {/*<Button variant="outline-success">Search</Button>*/}
                     {/*</Form></li>*/}
                     <li><a>Log In</a></li>

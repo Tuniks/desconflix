@@ -18,11 +18,15 @@ class VideoModal extends React.Component{
         return(
             <Modal show={this.props.show} dialogClassName='custom-modal' onHide={this.handleClose} >
                 <Modal.Header  className={'modaltitle'}>
-                    Nome do video
+                    {this.props.title}
                 </Modal.Header>
                 <Modal.Body>
                     <div>
-                        <iframe width="960" height="540" src="https://www.youtube.com/embed/6CHs4x2uqcQ" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                        <iframe width="960" height="540"
+                                src={"https://www.youtube.com/embed/" + this.props.videoid}
+                                frameBorder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowFullScreen></iframe>
                     </div>
                 </Modal.Body>
             </Modal>
@@ -32,7 +36,7 @@ class VideoModal extends React.Component{
 
 class VideoCard extends  React.Component{
     constructor(props){
-        super(props)
+        super(props);
         this.handleClick = this.handleClick.bind(this);
     }
 
@@ -44,7 +48,7 @@ class VideoCard extends  React.Component{
         return(
             <Card className={'card'} bg="white" border="white">
                 <a onClick={() => this.handleClick()}>
-                    <Card.Img variant="top" src={require('./img/kanye.png')} />
+                    <Card.Img variant="top" src={this.props.thumb} />
                     <Card.Body>
                         <Card.Title> {this.props.title} </Card.Title>
                     </Card.Body>
@@ -79,8 +83,14 @@ class VideoCardModalWrapper extends React.Component{
     render(){
         return(
             <>
-            <VideoCard title={'A'} showFunction={this.handleShow}/>
-            <VideoModal show={this.state.show} closeFunction={this.handleClose}/>
+            <VideoCard videodata={this.props.videodata}
+                       showFunction={this.handleShow}
+                       title={this.props.title}
+                       thumb={this.props.thumb}/>
+            <VideoModal show={this.state.show}
+                        closeFunction={this.handleClose}
+                        title={this.props.title}
+                        videoid={this.props.videoid}/>
             </>
         )
     }

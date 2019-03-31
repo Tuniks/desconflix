@@ -1,0 +1,259 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_2zf0S_rI3G-6Ua_dSg6piSu26A\"",
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pmnv0vwzz0M917MhJTGoqVjs7Fo\"",
+      "id": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_",
+      "snippet": {
+        "publishedAt": "2014-10-03T22:45:23.000Z",
+        "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+        "title": "Descomplica Na Estrada",
+        "description": "Nossos professores viajam pelo Brasil para mostrar os biomas do país. Aulas interdisciplinares de Biologia, Geografia e História, veja mais em Projetos Especiais: http://bit.ly/1gpnS73",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6di4mJMPaE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6di4mJMPaE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6di4mJMPaE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6di4mJMPaE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Descomplica",
+        "localized": {
+          "title": "Descomplica Na Estrada",
+          "description": "Nossos professores viajam pelo Brasil para mostrar os biomas do país. Aulas interdisciplinares de Biologia, Geografia e História, veja mais em Projetos Especiais: http://bit.ly/1gpnS73"
+        }
+      }
+    },
+    {
+
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YssVyaHCyT7m7dPjcST4iaKhU_A\"",
+      "id": "PLgIWHtlPYF830BgG33zXDuZJM_qQnlfze",
+      "snippet": {
+        "publishedAt": "2018-08-22T16:56:38.000Z",
+        "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+        "title": "Debates Descomplica",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0AngMnt3o6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0AngMnt3o6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0AngMnt3o6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Descomplica",
+        "localized": {
+          "title": "Debates Descomplica",
+          "description": ""
+        }
+      }
+    },
+    {
+
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sj8QmcDxhwcxydDsArn11tUTXfM\"",
+      "id": "PLgIWHtlPYF82HML3ZID_iMxAsZs_0Rq3x",
+      "snippet": {
+        "publishedAt": "2017-11-04T12:00:51.000Z",
+        "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+        "title": "L.A.C.R.E.I.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hQqMVL6Lrzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Descomplica",
+        "localized": {
+          "title": "L.A.C.R.E.I.",
+          "description": ""
+        }
+      }
+    },
+    {
+
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Mx3FupCe-q4BVRimmz0Wsydl1-A\"",
+      "id": "PLgIWHtlPYF827s9-X6i8DPTVxQW6NEqn7",
+      "snippet": {
+        "publishedAt": "2015-09-16T22:38:13.000Z",
+        "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+        "title": "Vida de Vestibulando",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jrYwWABp1ag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jrYwWABp1ag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrYwWABp1ag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jrYwWABp1ag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jrYwWABp1ag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Descomplica",
+        "localized": {
+          "title": "Vida de Vestibulando",
+          "description": ""
+        }
+      }
+    },
+    {
+
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SkNaTAtzwlTn3MidCbJgJY1YIr0\"",
+      "id": "PLgIWHtlPYF83jOmeJJlghP0QgpDFvzqIt",
+      "snippet": {
+        "publishedAt": "2018-05-18T01:21:09.000Z",
+        "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+        "title": "Família Descomplica | Depoimentos de ex-alunos",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r_PJ35wS3-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Descomplica",
+        "localized": {
+          "title": "Família Descomplica | Depoimentos de ex-alunos",
+          "description": ""
+        }
+      }
+    },
+    {
+
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VORavESCwXlXC9AD8xEldBbdSRo\"",
+      "id": "PLgIWHtlPYF81s62RA2u73VI36YdaCmul7",
+      "snippet": {
+        "publishedAt": "2018-09-25T21:36:30.000Z",
+        "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+        "title": "Paródias | Relashow | Aulão Descomplica",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C4dcX2CTHlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Descomplica",
+        "localized": {
+          "title": "Paródias | Relashow | Aulão Descomplica",
+          "description": ""
+        }
+      }
+    }
+  ]
+}
