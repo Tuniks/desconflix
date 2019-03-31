@@ -4,10 +4,17 @@
 }
 
 .gridrow {
-    padding-left: -5rem;
-    padding-right: -10rem;
-    padding-bottom: 2rem;
+    padding-bottom: 5rem;
+    float: left;
+
 }
+
+.gridrow .card{
+    max-height: 240px;
+    max-width: 255px;
+    font-size: 16px;
+}
+
 
 /*.gridcontainer {*/
     /*padding: -15rem;*/

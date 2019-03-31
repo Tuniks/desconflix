@@ -19,38 +19,6 @@
       {
         "id": "PLgIWHtlPYF82qrt_ae1ART8wb6K0OiqV_"
       }
-    ],
-    "items": [
-      {
-        "snippet": {
-          "title": "kanye",
-          "thumbnails": {
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"
-            }
-          }
-        }
-      },
-      {
-        "snippet": {
-          "title": "key",
-          "thumbnails": {
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"
-            }
-          }
-        }
-      },
-      {
-        "snippet": {
-          "title": "peele",
-          "thumbnails": {
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7ZpcZC1mBIk/default.jpg"
-            }
-          }
-        }
-      }
     ]
   }
 }

@@ -16,6 +16,7 @@ class VideoModal extends React.Component{
 
     render(){
         return(
+            <>
             <Modal show={this.props.show} dialogClassName='custom-modal' onHide={this.handleClose} >
                 <Modal.Header  className={'modaltitle'}>
                     {this.props.title}
@@ -30,6 +31,7 @@ class VideoModal extends React.Component{
                     </div>
                 </Modal.Body>
             </Modal>
+            </>
         )
     }
 }
@@ -46,11 +48,11 @@ class VideoCard extends  React.Component{
 
     render() {
         return(
-            <Card className={'card'} bg="white" border="white">
+            <Card className={'card'} bg="white" border="light">
                 <a onClick={() => this.handleClick()}>
                     <Card.Img variant="top" src={this.props.thumb} />
                     <Card.Body>
-                        <Card.Title> {this.props.title} </Card.Title>
+                        <Card.Title className={'cardtitle'}> {this.props.title} </Card.Title>
                     </Card.Body>
                 </a>
             </Card>

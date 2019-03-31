@@ -3,7 +3,7 @@ import CardDeck from 'react-bootstrap/CardDeck'
 import Carousel from 'react-bootstrap/Carousel'
 import VideoCardModalWrapper from './videocard.js'
 
-import {getPlaylistNameFromId} from './auxfunctions.js'
+import {getPlaylistNameFromId, getVideoListFromCustomPlaylistTitle} from './auxfunctions.js'
 import './css/videolist.css'
 import myData from './playlistitems.json'
 
@@ -22,7 +22,7 @@ class VideoCardDeck extends React.Component{
         }
 
         return (
-            <CardDeck className={'carddeck'}>
+            <CardDeck className={'justify-content'}>
                 {cardlist}
             </CardDeck>
         )
@@ -60,7 +60,8 @@ class VideoCarousel extends React.Component{
 
 class VideoList extends React.Component{
     render() {
-        console.log(getPlaylistNameFromId('PLgIWHtlPYF81s62RA2u73VI36YdaCmul7'));
+        var videolist = getVideoListFromCustomPlaylistTitle("Em Alta");
+        console.log(videolist[0].snippet.title);
 
         const carousellist = [];
 
