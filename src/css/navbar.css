@@ -1,6 +1,7 @@
 .navbar {
     font-size: 16px;
-    padding: 0;
+    padding: 0.5rem;
+    background-color: #00E88F;
 }
 
 .navbar ul{
@@ -11,7 +12,6 @@
     padding: 0;
     left: 0;
     overflow: hidden;
-    background-color: #00E88F;
 }
 
 .navbar li{
@@ -25,18 +25,12 @@
     padding: 20px 28px;
     text-decoration: none;
 
-    text-decoration: none;
     background-image: linear-gradient(currentColor, currentColor);
     background-position: 50% 75%;
     background-repeat: no-repeat;
     background-size: 0% 1px;
     transition: background-size .3s;
 }
-
-/*.navbar li a:hover{*/
-    /*background-color: white;*/
-    /*color: #00daa6;*/
-/*}*/
 
 .navbar li a:hover, a:focus{
     background-size: 80% 1px;
@@ -49,4 +43,29 @@
 
 .navbar li:last-child{
     float: right;
+}
+
+.right {
+    padding-left: 56rem;
+    padding-top: 11px;
+}
+
+.form-inline {
+    width: 200%;
+}
+
+.form-group {
+    width: 90%;
+}
+
+.input-group {
+    width: 90% !important;
+}
+
+.form-control {
+    width: 100% !important;
+}
+
+span.input-group-addon {
+    width: 100px !important;
 }

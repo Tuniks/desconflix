@@ -2,8 +2,9 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
+
 import VideoCardModalWrapper from './videocard.js'
-import './css/gridview.css'
+import '../css/gridview.css'
 
 class Gridview extends React.Component {
     render(){

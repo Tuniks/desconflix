@@ -1,6 +1,6 @@
-import playlistdata from './playlistinfo.json'
-import videodata from './playlistitems.json'
-import customplaylist from './customplaylist.json'
+import playlistdata from '../database/playlistinfo.json'
+import videodata from '../database/playlistitems.json'
+import customplaylist from '../database/customplaylist.json'
 
 export function getPlaylistNameFromId(id){
     var playlisttitle = false;
@@ -46,4 +46,19 @@ export function getVideoListFromCustomPlaylistTitle(playlisttitle){
 export function getRandomVideoId(){
     var randomInt = Math.floor(Math.random() * customplaylist.playlists[0].items.length);
     return customplaylist.playlists[0].items[randomInt].id;
+}
+
+export function getVideoListFromSearch(substring){
+    var videolist = [];
+    var sub = substring.toLowerCase();
+
+    for(var i = 0; i < videodata.playlistdata.length; i++){
+        for(var j = 0; j < videodata.playlistdata[i].items.length; j++){
+            if(videodata.playlistdata[i].items[j].snippet.title.toLowerCase().includes(sub)){
+                videolist.push(videodata.playlistdata[i].items[j]);
+            }
+        }
+    }
+
+    return videolist;
 }

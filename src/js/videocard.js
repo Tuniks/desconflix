@@ -1,8 +1,8 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card'
 import Modal from 'react-bootstrap/Modal'
-import './css/videolist.css'
-import './css/videocard.css'
+import '../css/videolist.css'
+import '../css/videocard.css'
 
 class VideoModal extends React.Component{
     constructor(props){
@@ -18,8 +18,10 @@ class VideoModal extends React.Component{
         return(
             <>
             <Modal show={this.props.show} dialogClassName='custom-modal' onHide={this.handleClose} >
-                <Modal.Header  className={'modaltitle'}>
-                    {this.props.title}
+                <Modal.Header  className={'modalheader'}>
+                    <div className={'modaltitle'}>
+                        {this.props.title}
+                    </div>
                 </Modal.Header>
                 <Modal.Body>
                     <div>
@@ -74,12 +76,10 @@ class VideoCardModalWrapper extends React.Component{
 
     handleClose(){
         this.setState({show: false});
-        console.log('bye')
     }
 
     handleShow(){
         this.setState({show: true});
-        console.log('oi');
     }
 
     render(){
