@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7997a36e-80d8-4d47-aacd-6a9d6b6b0cdc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/mainview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/navbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/auxfunctions.js" afterPath="$PROJECT_DIR$/src/js/auxfunctions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/customplaylist.json" afterPath="$PROJECT_DIR$/src/database/customplaylist.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/gridview.js" afterPath="$PROJECT_DIR$/src/js/gridview.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/mockdb.json" afterPath="$PROJECT_DIR$/src/database/mockdb.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/playlistinfo.json" afterPath="$PROJECT_DIR$/src/database/playlistinfo.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/playlistitems.json" afterPath="$PROJECT_DIR$/src/database/playlistitems.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/videocard.js" afterPath="$PROJECT_DIR$/src/js/videocard.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/videolist.js" afterPath="$PROJECT_DIR$/src/js/videolist.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/listview.css" afterPath="$PROJECT_DIR$/src/css/listview.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/navbar.css" afterPath="$PROJECT_DIR$/src/css/navbar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/videocard.css" afterPath="$PROJECT_DIR$/src/css/videocard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/videolist.css" afterPath="$PROJECT_DIR$/src/css/videolist.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,21 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="60" lean-forward="false" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+            <state relative-caret-position="561">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navbar.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/navbar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -144,9 +129,9 @@
         <option value="$PROJECT_DIR$/src/js/videolist.js" />
         <option value="$PROJECT_DIR$/src/js/auxfunctions.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/css/navbar.css" />
         <option value="$PROJECT_DIR$/src/js/navbar.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/css/navbar.css" />
       </list>
     </option>
   </component>
@@ -161,10 +146,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="536" />
+    <option name="y" value="44" />
+    <option name="width" value="1104" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -265,18 +251,18 @@
       <workItem from="1553717008742" duration="13518000" />
       <workItem from="1553885360072" duration="20927000" />
       <workItem from="1553950757884" duration="15144000" />
-      <workItem from="1554039133887" duration="31185000" />
+      <workItem from="1554039133887" duration="32516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115861000" />
+    <option name="totallyTimeSpent" value="117192000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="536" y="44" width="1104" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2904412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -693,14 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/navbar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -719,8 +697,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="60" lean-forward="false" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
           <folding />
         </state>
       </provider>
