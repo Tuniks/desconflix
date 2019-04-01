@@ -46,7 +46,7 @@
 }
 
 .right {
-    padding-left: 48%;
+    padding-left: 1rem;
     padding-top: 11px;
 }
 
@@ -67,5 +67,5 @@
 }
 
 span.input-group-addon {
-    width: 100px !important;
+    width: 50px !important;
 }
